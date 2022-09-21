@@ -6,7 +6,7 @@ Hadoop = HDFS + MapReduce
 
 because the cpu, distrbution computing. 
 
-
+what is changes
 
 
 
